@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Music App<br>👯 I’m looking to collaborate on Machine Learning Projects<br>🌱 I’m currently learning AI,ML,Full Stack Development
+👯 I’m looking to collaborate on Machine Learning Projects<br>🌱 I’m currently learning AI,ML,Full Stack Development
 
 
 ## 🌐 Socials:
