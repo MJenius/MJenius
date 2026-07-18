@@ -1,3 +1,22 @@
+<div align="center">
+
+<h3><code>mjenius@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>mjenius@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./logo.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 # Mevin Jose
 
 AI and Full-Stack Engineer building production systems across machine learning, backend, and web.

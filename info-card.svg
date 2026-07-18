@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 410" width="490" height="410">
+  <style>
+    .card-text {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+      font-size: 13.5px;
+      fill: #e6edf3;
+    }
+    .window-title {
+      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+      font-size: 11px;
+      fill: #8b949e;
+    }
+    .title-line {
+      fill: #58a6ff; /* soft terminal blue */
+      font-weight: bold;
+    }
+    .sep-line {
+      fill: #8b949e;
+    }
+    .key-text {
+      fill: #79c0ff; /* cyan-blue key */
+      font-weight: bold;
+    }
+    .val-text {
+      fill: #c9d1d9; /* light gray val */
+    }
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .animated-line {
+      opacity: 0;
+      animation: fadeInUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .line-0 { animation-delay: 0.15s; }
+    .line-1 { animation-delay: 0.23s; }
+    .line-2 { animation-delay: 0.31s; }
+    .line-3 { animation-delay: 0.39s; }
+    .line-4 { animation-delay: 0.47s; }
+    .line-5 { animation-delay: 0.55s; }
+    .line-6 { animation-delay: 0.63s; }
+    .line-7 { animation-delay: 0.71s; }
+    .line-8 { animation-delay: 0.79s; }
+    .line-9 { animation-delay: 0.87s; }
+    .line-10 { animation-delay: 0.95s; }
+    .line-11 { animation-delay: 1.03s; }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="409" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <circle cx="20" cy="20" r="5" fill="#ff5f56" />
+  <circle cx="36" cy="20" r="5" fill="#ffbd2e" />
+  <circle cx="52" cy="20" r="5" fill="#27c93f" />
+  <text x="72" y="24" class="window-title">mjenius@github: ~/profile.sh</text>
+  <line x1="0" y1="40" x2="490" y2="40" stroke="#30363d" stroke-width="1" />
+  <g>
+    <text x="25" y="70" class="card-text title-line animated-line line-0">mjenius@github</text>
+    <text x="25" y="93" class="card-text sep-line animated-line line-1">--------------</text>
+    <text x="25" y="116" class="card-text animated-line line-2">
+      <tspan class="key-text">OS</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Windows 11 / Ubuntu 22.04 LTS</tspan>
+    </text>
+    <text x="25" y="139" class="card-text animated-line line-3">
+      <tspan class="key-text">Host</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">MJenius Local Workspace</tspan>
+    </text>
+    <text x="25" y="162" class="card-text animated-line line-4">
+      <tspan class="key-text">Kernel</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Python 3.11 / Node.js v20</tspan>
+    </text>
+    <text x="25" y="185" class="card-text animated-line line-5">
+      <tspan class="key-text">Uptime</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Active and coding daily</tspan>
+    </text>
+    <text x="25" y="208" class="card-text animated-line line-6">
+      <tspan class="key-text">Shell</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">powershell.exe / zsh</tspan>
+    </text>
+    <text x="25" y="231" class="card-text animated-line line-7">
+      <tspan class="key-text">Role</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">AI &amp; Full-Stack Engineer</tspan>
+    </text>
+    <text x="25" y="254" class="card-text animated-line line-8">
+      <tspan class="key-text">Stack</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Python, Next.js, React, FastAPI, Docker</tspan>
+    </text>
+    <text x="25" y="277" class="card-text animated-line line-9">
+      <tspan class="key-text">Focus</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Applied ML, Computer Vision, AI Agents</tspan>
+    </text>
+    <text x="25" y="300" class="card-text animated-line line-10">
+      <tspan class="key-text">Links</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">mjenius.github.io/Portfolio/</tspan>
+    </text>
+    <text x="25" y="323" class="card-text animated-line line-11">
+      <tspan class="key-text">Status</tspan>
+      <tspan fill="#8b949e">: </tspan>
+      <tspan class="val-text">Building production AI systems</tspan>
+    </text>
+  </g>
+</svg>
