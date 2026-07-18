@@ -46,12 +46,12 @@ def main():
     details = [
         {"key": "OS", "val": "Windows 11 / Ubuntu 22.04 LTS"},
         {"key": "Host", "val": "MJenius Local Workspace"},
-        {"key": "Kernel", "val": "Python 3.11 / Node.js v20"},
+        {"key": "Runtime", "val": "Python 3.11 • Node.js 20"},
         {"key": "Uptime", "val": "Active and coding daily"},
         {"key": "Shell", "val": "powershell.exe / zsh"},
-        {"key": "Role", "val": "AI &amp; Full-Stack Engineer"},
+        {"key": "Role", "val": "AI Systems Engineer"},
         {"key": "Stack", "val": "Python, Next.js, React, FastAPI, Docker"},
-        {"key": "Focus", "val": "Applied ML, Computer Vision, AI Agents"},
+        {"key": "Focus", "val": "Agentic AI • Computer Vision • ML Systems"},
         {"key": "Links", "val": "mjenius.github.io/Portfolio/"},
         {"key": "Status", "val": "Building production AI systems"}
     ]

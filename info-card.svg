@@ -73,9 +73,9 @@
       <tspan class="val-text">MJenius Local Workspace</tspan>
     </text>
     <text x="25" y="162" class="card-text animated-line line-4">
-      <tspan class="key-text">Kernel</tspan>
+      <tspan class="key-text">Runtime</tspan>
       <tspan fill="#8b949e">: </tspan>
-      <tspan class="val-text">Python 3.11 / Node.js v20</tspan>
+      <tspan class="val-text">Python 3.11 • Node.js 20</tspan>
     </text>
     <text x="25" y="185" class="card-text animated-line line-5">
       <tspan class="key-text">Uptime</tspan>
@@ -90,7 +90,7 @@
     <text x="25" y="231" class="card-text animated-line line-7">
       <tspan class="key-text">Role</tspan>
       <tspan fill="#8b949e">: </tspan>
-      <tspan class="val-text">AI &amp; Full-Stack Engineer</tspan>
+      <tspan class="val-text">AI Systems Engineer</tspan>
     </text>
     <text x="25" y="254" class="card-text animated-line line-8">
       <tspan class="key-text">Stack</tspan>
@@ -100,7 +100,7 @@
     <text x="25" y="277" class="card-text animated-line line-9">
       <tspan class="key-text">Focus</tspan>
       <tspan fill="#8b949e">: </tspan>
-      <tspan class="val-text">Applied ML, Computer Vision, AI Agents</tspan>
+      <tspan class="val-text">Agentic AI • Computer Vision • ML Systems</tspan>
     </text>
     <text x="25" y="300" class="card-text animated-line line-10">
       <tspan class="key-text">Links</tspan>
