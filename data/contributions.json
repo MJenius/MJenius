@@ -1,9 +1,9 @@
 {
   "username": "MJenius",
-  "last_updated": "2026-08-25 07:11:06 UTC",
-  "total": 705,
-  "current_streak": 38,
-  "longest_streak": 38,
+  "last_updated": "2026-08-26 07:11:06 UTC",
+  "total": 711,
+  "current_streak": 39,
+  "longest_streak": 39,
   "best_day": {
     "date": "2025-09-30",
     "count": 31
@@ -21,7 +21,7 @@
     "May 2026": 39,
     "Jun 2026": 32,
     "Jul 2026": 29,
-    "Aug 2026": 122
+    "Aug 2026": 128
   },
   "days": [
     {
@@ -1856,6 +1856,11 @@
     },
     {
       "date": "2026-08-25",
+      "level": 1,
+      "count": 6
+    },
+    {
+      "date": "2026-08-26",
       "level": 0,
       "count": 0
     }
