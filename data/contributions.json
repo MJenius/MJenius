@@ -1,7 +1,7 @@
 {
   "username": "MJenius",
-  "last_updated": "2026-10-24 11:10:57 UTC",
-  "total": 900,
+  "last_updated": "2026-10-25 11:40:37 UTC",
+  "total": 892,
   "current_streak": 99,
   "longest_streak": 99,
   "best_day": {
@@ -9,7 +9,7 @@
     "count": 27
   },
   "monthly_totals": {
-    "Oct 2025": 16,
+    "Oct 2025": 3,
     "Nov 2025": 74,
     "Dec 2025": 14,
     "Jan 2026": 102,
@@ -21,44 +21,9 @@
     "Jul 2026": 29,
     "Aug 2026": 150,
     "Sep 2026": 175,
-    "Oct 2026": 62
+    "Oct 2026": 67
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "level": 1,
-      "count": 3
-    },
-    {
-      "date": "2025-10-25",
-      "level": 2,
-      "count": 10
-    },
     {
       "date": "2025-10-26",
       "level": 0,
@@ -1876,8 +1841,13 @@
     },
     {
       "date": "2026-10-24",
-      "level": 1,
-      "count": 2
+      "level": 2,
+      "count": 7
+    },
+    {
+      "date": "2026-10-25",
+      "level": 0,
+      "count": 0
     }
   ]
 }
